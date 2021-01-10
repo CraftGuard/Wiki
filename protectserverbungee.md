@@ -7,4 +7,4 @@ To protect your server create an SRV Record. We are using Cloudflare in this cas
 Now we have configured your DNS. We aren't finished yet however.
 <br>
 # BungeeCord Configuration
-Now we need to go to your bungeecord config.yml and enable the `proxy_protocol: on` option. <br> Once it is enabled all IPS will be forwarded to the mainserver. <br> **Make sure to let us know at support that you are using BungeeCord or else you wont be able to connect to your server!**
+Now we need to go to your bungeecord config.yml and enable the `proxy_protocol: true` option. <br> Once it is enabled all IPS will be forwarded to the mainserver. <br> **Make sure to let us know at support that you are using BungeeCord or else you wont be able to connect to your server!**
