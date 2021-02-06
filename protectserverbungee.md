@@ -1,8 +1,8 @@
 # Protect a BungeeCord Server
-To protect your server create an SRV Record. We are using Cloudflare in this case.
+To protect your server create an **A** Record. We are using Cloudflare in this case.
 <br>
 # DNS Configuration
-![protect](https://cdn.discordapp.com/attachments/796425544296038400/797913218960982026/unknown.png)
+![protect](https://media.discordapp.net/attachments/770367088262905859/807733666183905280/xlPKrfvUGO.png?width=959&height=220)
 <br>
 Now we have configured your DNS. We aren't finished yet however.
 <br>
